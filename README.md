@@ -1,5 +1,5 @@
 # Wendy-s-Website
-
+![wendy1](https://github.com/NeginKashani/Wendy-s-Website/assets/109550062/7ca05897-05bf-429c-b134-d257a0d66705)
 - [Demo Project](https://wendy-s-website.vercel.app/)
 
 - Developed by Negin Kashani
